@@ -1,1 +1,1 @@
-print('lubie jesc leszcze')
+print('lubie pizze')
