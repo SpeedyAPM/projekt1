@@ -1,3 +1,3 @@
 #hahahha
 print('lubie pizze')
-print('888')
+print('888pintal')
