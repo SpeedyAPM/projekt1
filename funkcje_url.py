@@ -1,0 +1,1 @@
+####### Tu będą funkcje pobierające dane ze stron
